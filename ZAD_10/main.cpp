@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int x;
-    cout << "Wpisz wartosc liczby zmienno przecinkowej: " << endl;
+    cout << "Wpisz wartosc liczby zmiennoprzecinkowej: " << endl;
 
     cin >> x;
 
